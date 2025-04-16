@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chingiz</h1>
 
-- 🔭 I’m currently working on **____**
-
 - 📫 How to reach me **zetpos9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
